@@ -18,6 +18,7 @@ Veja [Referência de Configuração do Vite](https://vitejs.dev/config/).
 
 ```sh
 npm install
+```
 
 ### Compile and Hot-Reload for Development
 
