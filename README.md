@@ -1,24 +1,23 @@
 # cookin-up
 
-This template should help get you started developing with Vue 3 in Vite.
+Este template deve ajudar você a começar a desenvolver com Vue 3 no Vite.
 
-## Recommended IDE Setup
+## Configuração de IDE Recomendada
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (e desative o Vetur).
 
-## Type Support for `.vue` Imports in TS
+## Suporte de Tipos para Importações de `.vue` em TS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+O TypeScript não consegue lidar com informações de tipo para importações de `.vue` por padrão, então substituímos o `tsc` CLI pelo `vue-tsc` para verificação de tipos. Nos editores, precisamos do [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) para tornar o serviço de linguagem TypeScript ciente dos tipos `.vue`.
 
-## Customize configuration
+## Personalizar configuração
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Veja [Referência de Configuração do Vite](https://vitejs.dev/config/).
 
-## Project Setup
+## Configuração do Projeto
 
 ```sh
 npm install
-```
 
 ### Compile and Hot-Reload for Development
 
