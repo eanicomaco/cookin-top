@@ -1,6 +1,6 @@
 # cookin-up
 
-Clique [aqui](https://actcontrol.vercel.app/) e visualize o projeto publicado no Vercel!
+Clique [aqui](https://cookin-up-five.vercel.app/) e visualize o projeto publicado no Vercel!
 
 App desenvolvido com Vue 3 no Vite. O sistema apresenta uma lista de ingredientes categorizados. Ao selecionar os ingredientes disponíveis, o sistema apresenta uma lista de receitas que podem ser executadas com os ingredientes selecionados.
 
