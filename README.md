@@ -24,13 +24,13 @@ Veja [Referência de Configuração do Vite](https://vitejs.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilador e Hot-Reload para Desenvolvimento
 
 ```sh
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### Type-Check, Compilador e Minify para Produção
 
 ```sh
 npm run build
